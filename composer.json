@@ -1,0 +1,16 @@
+{
+    "name": "jkdow/eisc_webstore",
+    "description": "A Wordpress plugin to add WooCommerce utils for our web store",
+    "autoload": {
+        "psr-4": {
+            "Jkdow\\EiscWebstore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Josh Dowling",
+            "email": "jk.dowling22@gmail.com"
+        }
+    ],
+    "require": {}
+}
